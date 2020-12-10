@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DatabaseContext\DatabaseContext.csproj" />
+    <ProjectReference Include="..\DatabaseOracleContext\DatabaseOracleContext.csproj" />
+    <ProjectReference Include="..\ModelContext\ModelContext.csproj" />
+  </ItemGroup>
+
+</Project>

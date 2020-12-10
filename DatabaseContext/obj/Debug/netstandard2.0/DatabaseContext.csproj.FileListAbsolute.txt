@@ -1,0 +1,12 @@
+F:\Github\LogisticLamipel\trunk\ApiV2\DatabaseContext\bin\Debug\netstandard2.0\DatabaseContext.deps.json
+F:\Github\LogisticLamipel\trunk\ApiV2\DatabaseContext\bin\Debug\netstandard2.0\DatabaseContext.dll
+F:\Github\LogisticLamipel\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.0\DatabaseContext.csprojAssemblyReference.cache
+F:\Github\LogisticLamipel\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.0\DatabaseContext.AssemblyInfoInputs.cache
+F:\Github\LogisticLamipel\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.0\DatabaseContext.AssemblyInfo.cs
+F:\Github\LogisticLamipel\trunk\ApiV2\DatabaseContext\bin\Debug\netstandard2.0\ModelContext.dll
+F:\Github\LogisticLamipel\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.0\DatabaseContext.csproj.CoreCompileInputs.cache
+F:\Github\LogisticLamipel\trunk\ApiV2\DatabaseContext\bin\Debug\netstandard2.0\DatabaseContext.pdb
+F:\Github\LogisticLamipel\trunk\ApiV2\DatabaseContext\bin\Debug\netstandard2.0\ModelContext.pdb
+F:\Github\LogisticLamipel\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.0\DatabaseContext.csproj.CopyComplete
+F:\Github\LogisticLamipel\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.0\DatabaseContext.dll
+F:\Github\LogisticLamipel\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.0\DatabaseContext.pdb

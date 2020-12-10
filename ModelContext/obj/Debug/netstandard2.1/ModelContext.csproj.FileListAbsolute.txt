@@ -1,0 +1,40 @@
+F:\Github\LogisticLamipel\trunk\ApiV2\ModelContext\bin\Debug\netstandard2.1\ModelContext.deps.json
+F:\Github\LogisticLamipel\trunk\ApiV2\ModelContext\bin\Debug\netstandard2.1\ModelContext.dll
+F:\Github\LogisticLamipel\trunk\ApiV2\ModelContext\bin\Debug\netstandard2.1\ModelContext.pdb
+F:\Github\LogisticLamipel\trunk\ApiV2\ModelContext\obj\Debug\netstandard2.1\ModelContext.csproj.CoreCompileInputs.cache
+F:\Github\LogisticLamipel\trunk\ApiV2\ModelContext\obj\Debug\netstandard2.1\ModelContext.AssemblyInfoInputs.cache
+F:\Github\LogisticLamipel\trunk\ApiV2\ModelContext\obj\Debug\netstandard2.1\ModelContext.AssemblyInfo.cs
+F:\Github\LogisticLamipel\trunk\ApiV2\ModelContext\obj\Debug\netstandard2.1\ModelContext.dll
+F:\Github\LogisticLamipel\trunk\ApiV2\ModelContext\obj\Debug\netstandard2.1\ModelContext.pdb
+F:\Github\ApiCore2020\trunk\ApiV2\ModelContext\bin\Debug\netstandard2.1\ModelContext.deps.json
+F:\Github\ApiCore2020\trunk\ApiV2\ModelContext\bin\Debug\netstandard2.1\ModelContext.dll
+F:\Github\ApiCore2020\trunk\ApiV2\ModelContext\bin\Debug\netstandard2.1\ModelContext.pdb
+F:\Github\ApiCore2020\trunk\ApiV2\ModelContext\obj\Debug\netstandard2.1\ModelContext.csproj.CoreCompileInputs.cache
+F:\Github\ApiCore2020\trunk\ApiV2\ModelContext\obj\Debug\netstandard2.1\ModelContext.AssemblyInfoInputs.cache
+F:\Github\ApiCore2020\trunk\ApiV2\ModelContext\obj\Debug\netstandard2.1\ModelContext.AssemblyInfo.cs
+F:\Github\ApiCore2020\trunk\ApiV2\ModelContext\obj\Debug\netstandard2.1\ModelContext.dll
+F:\Github\ApiCore2020\trunk\ApiV2\ModelContext\obj\Debug\netstandard2.1\ModelContext.pdb
+F:\Github\ApiCore2020\trunk\ApiV2\ModelContext\obj\Debug\netstandard2.1\ModelContext.csprojAssemblyReference.cache
+F:\APICoreGeneral\trunk\ApiV2\ModelContext\bin\Debug\netstandard2.1\ModelContext.deps.json
+F:\APICoreGeneral\trunk\ApiV2\ModelContext\bin\Debug\netstandard2.1\ModelContext.dll
+F:\APICoreGeneral\trunk\ApiV2\ModelContext\bin\Debug\netstandard2.1\ModelContext.pdb
+F:\APICoreGeneral\trunk\ApiV2\ModelContext\obj\Debug\netstandard2.1\ModelContext.AssemblyInfoInputs.cache
+F:\APICoreGeneral\trunk\ApiV2\ModelContext\obj\Debug\netstandard2.1\ModelContext.AssemblyInfo.cs
+F:\APICoreGeneral\trunk\ApiV2\ModelContext\obj\Debug\netstandard2.1\ModelContext.dll
+F:\APICoreGeneral\trunk\ApiV2\ModelContext\obj\Debug\netstandard2.1\ModelContext.pdb
+F:\CoreAPIGIT\ApiNetCore\ModelContext\bin\Debug\netstandard2.1\ModelContext.deps.json
+F:\CoreAPIGIT\ApiNetCore\ModelContext\bin\Debug\netstandard2.1\ModelContext.dll
+F:\CoreAPIGIT\ApiNetCore\ModelContext\bin\Debug\netstandard2.1\ModelContext.pdb
+F:\CoreAPIGIT\ApiNetCore\ModelContext\obj\Debug\netstandard2.1\ModelContext.AssemblyInfoInputs.cache
+F:\CoreAPIGIT\ApiNetCore\ModelContext\obj\Debug\netstandard2.1\ModelContext.AssemblyInfo.cs
+F:\CoreAPIGIT\ApiNetCore\ModelContext\obj\Debug\netstandard2.1\ModelContext.dll
+F:\CoreAPIGIT\ApiNetCore\ModelContext\obj\Debug\netstandard2.1\ModelContext.pdb
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\ModelContext\bin\Debug\netstandard2.1\ModelContext.deps.json
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\ModelContext\bin\Debug\netstandard2.1\ModelContext.dll
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\ModelContext\bin\Debug\netstandard2.1\ModelContext.pdb
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\ModelContext\obj\Debug\netstandard2.1\ModelContext.csprojAssemblyReference.cache
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\ModelContext\obj\Debug\netstandard2.1\ModelContext.AssemblyInfoInputs.cache
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\ModelContext\obj\Debug\netstandard2.1\ModelContext.AssemblyInfo.cs
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\ModelContext\obj\Debug\netstandard2.1\ModelContext.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\ModelContext\obj\Debug\netstandard2.1\ModelContext.dll
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\ModelContext\obj\Debug\netstandard2.1\ModelContext.pdb

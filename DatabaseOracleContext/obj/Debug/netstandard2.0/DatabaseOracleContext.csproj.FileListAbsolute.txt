@@ -1,0 +1,33 @@
+F:\Github\ApiCore2020\trunk\ApiV2\DatabaseOracleContext\bin\Debug\netstandard2.0\DatabaseOracleContext.deps.json
+F:\Github\ApiCore2020\trunk\ApiV2\DatabaseOracleContext\bin\Debug\netstandard2.0\DatabaseOracleContext.dll
+F:\Github\ApiCore2020\trunk\ApiV2\DatabaseOracleContext\obj\Debug\netstandard2.0\DatabaseOracleContext.AssemblyInfoInputs.cache
+F:\Github\ApiCore2020\trunk\ApiV2\DatabaseOracleContext\obj\Debug\netstandard2.0\DatabaseOracleContext.AssemblyInfo.cs
+F:\Github\ApiCore2020\trunk\ApiV2\DatabaseOracleContext\obj\Debug\netstandard2.0\DatabaseOracleContext.csproj.CoreCompileInputs.cache
+F:\Github\ApiCore2020\trunk\ApiV2\DatabaseOracleContext\bin\Debug\netstandard2.0\DatabaseOracleContext.pdb
+F:\Github\ApiCore2020\trunk\ApiV2\DatabaseOracleContext\obj\Debug\netstandard2.0\DatabaseOracleContext.dll
+F:\Github\ApiCore2020\trunk\ApiV2\DatabaseOracleContext\obj\Debug\netstandard2.0\DatabaseOracleContext.pdb
+F:\Github\ApiCore2020\trunk\ApiV2\DatabaseOracleContext\obj\Debug\netstandard2.0\DatabaseOracleContext.csprojAssemblyReference.cache
+F:\APICoreGeneral\trunk\ApiV2\DatabaseOracleContext\bin\Debug\netstandard2.0\DatabaseOracleContext.deps.json
+F:\APICoreGeneral\trunk\ApiV2\DatabaseOracleContext\bin\Debug\netstandard2.0\DatabaseOracleContext.dll
+F:\APICoreGeneral\trunk\ApiV2\DatabaseOracleContext\bin\Debug\netstandard2.0\DatabaseOracleContext.pdb
+F:\APICoreGeneral\trunk\ApiV2\DatabaseOracleContext\obj\Debug\netstandard2.0\DatabaseOracleContext.AssemblyInfoInputs.cache
+F:\APICoreGeneral\trunk\ApiV2\DatabaseOracleContext\obj\Debug\netstandard2.0\DatabaseOracleContext.AssemblyInfo.cs
+F:\APICoreGeneral\trunk\ApiV2\DatabaseOracleContext\obj\Debug\netstandard2.0\DatabaseOracleContext.dll
+F:\APICoreGeneral\trunk\ApiV2\DatabaseOracleContext\obj\Debug\netstandard2.0\DatabaseOracleContext.pdb
+F:\APICoreGeneral\trunk\ApiV2\DatabaseOracleContext\obj\Debug\netstandard2.0\DatabaseOracleContext.csprojAssemblyReference.cache
+F:\CoreAPIGIT\ApiNetCore\DatabaseOracleContext\bin\Debug\netstandard2.0\DatabaseOracleContext.deps.json
+F:\CoreAPIGIT\ApiNetCore\DatabaseOracleContext\bin\Debug\netstandard2.0\DatabaseOracleContext.dll
+F:\CoreAPIGIT\ApiNetCore\DatabaseOracleContext\bin\Debug\netstandard2.0\DatabaseOracleContext.pdb
+F:\CoreAPIGIT\ApiNetCore\DatabaseOracleContext\obj\Debug\netstandard2.0\DatabaseOracleContext.AssemblyInfoInputs.cache
+F:\CoreAPIGIT\ApiNetCore\DatabaseOracleContext\obj\Debug\netstandard2.0\DatabaseOracleContext.AssemblyInfo.cs
+F:\CoreAPIGIT\ApiNetCore\DatabaseOracleContext\obj\Debug\netstandard2.0\DatabaseOracleContext.dll
+F:\CoreAPIGIT\ApiNetCore\DatabaseOracleContext\obj\Debug\netstandard2.0\DatabaseOracleContext.pdb
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\DatabaseOracleContext\bin\Debug\netstandard2.0\DatabaseOracleContext.deps.json
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\DatabaseOracleContext\bin\Debug\netstandard2.0\DatabaseOracleContext.dll
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\DatabaseOracleContext\bin\Debug\netstandard2.0\DatabaseOracleContext.pdb
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\DatabaseOracleContext\obj\Debug\netstandard2.0\DatabaseOracleContext.csprojAssemblyReference.cache
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\DatabaseOracleContext\obj\Debug\netstandard2.0\DatabaseOracleContext.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\DatabaseOracleContext\obj\Debug\netstandard2.0\DatabaseOracleContext.AssemblyInfoInputs.cache
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\DatabaseOracleContext\obj\Debug\netstandard2.0\DatabaseOracleContext.AssemblyInfo.cs
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\DatabaseOracleContext\obj\Debug\netstandard2.0\DatabaseOracleContext.dll
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\DatabaseOracleContext\obj\Debug\netstandard2.0\DatabaseOracleContext.pdb

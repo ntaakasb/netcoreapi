@@ -1,0 +1,58 @@
+F:\Github\LogisticLamipel\trunk\ApiV2\DatabaseContext\bin\Debug\netstandard2.1\DatabaseContext.deps.json
+F:\Github\LogisticLamipel\trunk\ApiV2\DatabaseContext\bin\Debug\netstandard2.1\DatabaseContext.dll
+F:\Github\LogisticLamipel\trunk\ApiV2\DatabaseContext\bin\Debug\netstandard2.1\DatabaseContext.pdb
+F:\Github\LogisticLamipel\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.csprojAssemblyReference.cache
+F:\Github\LogisticLamipel\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.csproj.CoreCompileInputs.cache
+F:\Github\LogisticLamipel\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.AssemblyInfoInputs.cache
+F:\Github\LogisticLamipel\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.AssemblyInfo.cs
+F:\Github\LogisticLamipel\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.csproj.CopyComplete
+F:\Github\LogisticLamipel\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.dll
+F:\Github\LogisticLamipel\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.pdb
+F:\Github\LogisticLamipel\trunk\ApiV2\DatabaseContext\bin\Debug\netstandard2.1\ModelContext.dll
+F:\Github\LogisticLamipel\trunk\ApiV2\DatabaseContext\bin\Debug\netstandard2.1\ModelContext.pdb
+F:\Github\ApiCore2020\trunk\ApiV2\DatabaseContext\bin\Debug\netstandard2.1\DatabaseContext.deps.json
+F:\Github\ApiCore2020\trunk\ApiV2\DatabaseContext\bin\Debug\netstandard2.1\DatabaseContext.dll
+F:\Github\ApiCore2020\trunk\ApiV2\DatabaseContext\bin\Debug\netstandard2.1\DatabaseContext.pdb
+F:\Github\ApiCore2020\trunk\ApiV2\DatabaseContext\bin\Debug\netstandard2.1\ModelContext.dll
+F:\Github\ApiCore2020\trunk\ApiV2\DatabaseContext\bin\Debug\netstandard2.1\ModelContext.pdb
+F:\Github\ApiCore2020\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.csprojAssemblyReference.cache
+F:\Github\ApiCore2020\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.csproj.CoreCompileInputs.cache
+F:\Github\ApiCore2020\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.AssemblyInfoInputs.cache
+F:\Github\ApiCore2020\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.AssemblyInfo.cs
+F:\Github\ApiCore2020\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.csproj.CopyComplete
+F:\Github\ApiCore2020\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.dll
+F:\Github\ApiCore2020\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.pdb
+F:\APICoreGeneral\trunk\ApiV2\DatabaseContext\bin\Debug\netstandard2.1\DatabaseContext.deps.json
+F:\APICoreGeneral\trunk\ApiV2\DatabaseContext\bin\Debug\netstandard2.1\DatabaseContext.dll
+F:\APICoreGeneral\trunk\ApiV2\DatabaseContext\bin\Debug\netstandard2.1\DatabaseContext.pdb
+F:\APICoreGeneral\trunk\ApiV2\DatabaseContext\bin\Debug\netstandard2.1\ModelContext.dll
+F:\APICoreGeneral\trunk\ApiV2\DatabaseContext\bin\Debug\netstandard2.1\ModelContext.pdb
+F:\APICoreGeneral\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.AssemblyInfoInputs.cache
+F:\APICoreGeneral\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.AssemblyInfo.cs
+F:\APICoreGeneral\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.csproj.CopyComplete
+F:\APICoreGeneral\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.dll
+F:\APICoreGeneral\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.pdb
+F:\APICoreGeneral\trunk\ApiV2\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.csprojAssemblyReference.cache
+F:\CoreAPIGIT\ApiNetCore\DatabaseContext\bin\Debug\netstandard2.1\DatabaseContext.deps.json
+F:\CoreAPIGIT\ApiNetCore\DatabaseContext\bin\Debug\netstandard2.1\DatabaseContext.dll
+F:\CoreAPIGIT\ApiNetCore\DatabaseContext\bin\Debug\netstandard2.1\DatabaseContext.pdb
+F:\CoreAPIGIT\ApiNetCore\DatabaseContext\bin\Debug\netstandard2.1\ModelContext.dll
+F:\CoreAPIGIT\ApiNetCore\DatabaseContext\bin\Debug\netstandard2.1\ModelContext.pdb
+F:\CoreAPIGIT\ApiNetCore\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.csprojAssemblyReference.cache
+F:\CoreAPIGIT\ApiNetCore\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.AssemblyInfoInputs.cache
+F:\CoreAPIGIT\ApiNetCore\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.AssemblyInfo.cs
+F:\CoreAPIGIT\ApiNetCore\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.csproj.CopyComplete
+F:\CoreAPIGIT\ApiNetCore\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.dll
+F:\CoreAPIGIT\ApiNetCore\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.pdb
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\DatabaseContext\bin\Debug\netstandard2.1\DatabaseContext.deps.json
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\DatabaseContext\bin\Debug\netstandard2.1\DatabaseContext.dll
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\DatabaseContext\bin\Debug\netstandard2.1\DatabaseContext.pdb
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\DatabaseContext\bin\Debug\netstandard2.1\ModelContext.dll
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\DatabaseContext\bin\Debug\netstandard2.1\ModelContext.pdb
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.csprojAssemblyReference.cache
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.AssemblyInfoInputs.cache
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.AssemblyInfo.cs
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.csproj.CopyComplete
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.dll
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\DatabaseContext\obj\Debug\netstandard2.1\DatabaseContext.pdb

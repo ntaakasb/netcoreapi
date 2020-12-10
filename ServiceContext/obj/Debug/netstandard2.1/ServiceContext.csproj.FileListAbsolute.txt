@@ -1,0 +1,74 @@
+F:\Github\LogisticLamipel\trunk\ApiV2\ServiceContext\bin\Debug\netstandard2.1\ServiceContext.deps.json
+F:\Github\LogisticLamipel\trunk\ApiV2\ServiceContext\bin\Debug\netstandard2.1\ServiceContext.dll
+F:\Github\LogisticLamipel\trunk\ApiV2\ServiceContext\bin\Debug\netstandard2.1\ServiceContext.pdb
+F:\Github\LogisticLamipel\trunk\ApiV2\ServiceContext\bin\Debug\netstandard2.1\DatabaseContext.dll
+F:\Github\LogisticLamipel\trunk\ApiV2\ServiceContext\bin\Debug\netstandard2.1\DatabaseContext.pdb
+F:\Github\LogisticLamipel\trunk\ApiV2\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.csprojAssemblyReference.cache
+F:\Github\LogisticLamipel\trunk\ApiV2\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.csproj.CoreCompileInputs.cache
+F:\Github\LogisticLamipel\trunk\ApiV2\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.AssemblyInfoInputs.cache
+F:\Github\LogisticLamipel\trunk\ApiV2\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.AssemblyInfo.cs
+F:\Github\LogisticLamipel\trunk\ApiV2\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.csproj.CopyComplete
+F:\Github\LogisticLamipel\trunk\ApiV2\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.dll
+F:\Github\LogisticLamipel\trunk\ApiV2\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.pdb
+F:\Github\LogisticLamipel\trunk\ApiV2\ServiceContext\bin\Debug\netstandard2.1\ModelContext.dll
+F:\Github\LogisticLamipel\trunk\ApiV2\ServiceContext\bin\Debug\netstandard2.1\ModelContext.pdb
+F:\Github\ApiCore2020\trunk\ApiV2\ServiceContext\bin\Debug\netstandard2.1\ServiceContext.deps.json
+F:\Github\ApiCore2020\trunk\ApiV2\ServiceContext\bin\Debug\netstandard2.1\ServiceContext.dll
+F:\Github\ApiCore2020\trunk\ApiV2\ServiceContext\bin\Debug\netstandard2.1\ServiceContext.pdb
+F:\Github\ApiCore2020\trunk\ApiV2\ServiceContext\bin\Debug\netstandard2.1\DatabaseContext.dll
+F:\Github\ApiCore2020\trunk\ApiV2\ServiceContext\bin\Debug\netstandard2.1\ModelContext.dll
+F:\Github\ApiCore2020\trunk\ApiV2\ServiceContext\bin\Debug\netstandard2.1\DatabaseContext.pdb
+F:\Github\ApiCore2020\trunk\ApiV2\ServiceContext\bin\Debug\netstandard2.1\ModelContext.pdb
+F:\Github\ApiCore2020\trunk\ApiV2\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.csprojAssemblyReference.cache
+F:\Github\ApiCore2020\trunk\ApiV2\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.csproj.CoreCompileInputs.cache
+F:\Github\ApiCore2020\trunk\ApiV2\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.AssemblyInfoInputs.cache
+F:\Github\ApiCore2020\trunk\ApiV2\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.AssemblyInfo.cs
+F:\Github\ApiCore2020\trunk\ApiV2\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.csproj.CopyComplete
+F:\Github\ApiCore2020\trunk\ApiV2\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.dll
+F:\Github\ApiCore2020\trunk\ApiV2\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.pdb
+F:\APICoreGeneral\trunk\ApiV2\ServiceContext\bin\Debug\netstandard2.1\ServiceContext.deps.json
+F:\APICoreGeneral\trunk\ApiV2\ServiceContext\bin\Debug\netstandard2.1\ServiceContext.dll
+F:\APICoreGeneral\trunk\ApiV2\ServiceContext\bin\Debug\netstandard2.1\DatabaseContext.dll
+F:\APICoreGeneral\trunk\ApiV2\ServiceContext\bin\Debug\netstandard2.1\DatabaseOracleContext.dll
+F:\APICoreGeneral\trunk\ApiV2\ServiceContext\bin\Debug\netstandard2.1\ModelContext.dll
+F:\APICoreGeneral\trunk\ApiV2\ServiceContext\bin\Debug\netstandard2.1\DatabaseContext.pdb
+F:\APICoreGeneral\trunk\ApiV2\ServiceContext\bin\Debug\netstandard2.1\DatabaseOracleContext.pdb
+F:\APICoreGeneral\trunk\ApiV2\ServiceContext\bin\Debug\netstandard2.1\ModelContext.pdb
+F:\APICoreGeneral\trunk\ApiV2\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.csprojAssemblyReference.cache
+F:\APICoreGeneral\trunk\ApiV2\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.AssemblyInfoInputs.cache
+F:\APICoreGeneral\trunk\ApiV2\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.AssemblyInfo.cs
+F:\APICoreGeneral\trunk\ApiV2\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.csproj.CopyComplete
+F:\APICoreGeneral\trunk\ApiV2\ServiceContext\bin\Debug\netstandard2.1\ServiceContext.pdb
+F:\APICoreGeneral\trunk\ApiV2\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.dll
+F:\APICoreGeneral\trunk\ApiV2\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.pdb
+F:\CoreAPIGIT\ApiNetCore\ServiceContext\bin\Debug\netstandard2.1\ServiceContext.deps.json
+F:\CoreAPIGIT\ApiNetCore\ServiceContext\bin\Debug\netstandard2.1\ServiceContext.dll
+F:\CoreAPIGIT\ApiNetCore\ServiceContext\bin\Debug\netstandard2.1\ServiceContext.pdb
+F:\CoreAPIGIT\ApiNetCore\ServiceContext\bin\Debug\netstandard2.1\DatabaseContext.dll
+F:\CoreAPIGIT\ApiNetCore\ServiceContext\bin\Debug\netstandard2.1\DatabaseOracleContext.dll
+F:\CoreAPIGIT\ApiNetCore\ServiceContext\bin\Debug\netstandard2.1\ModelContext.dll
+F:\CoreAPIGIT\ApiNetCore\ServiceContext\bin\Debug\netstandard2.1\DatabaseContext.pdb
+F:\CoreAPIGIT\ApiNetCore\ServiceContext\bin\Debug\netstandard2.1\DatabaseOracleContext.pdb
+F:\CoreAPIGIT\ApiNetCore\ServiceContext\bin\Debug\netstandard2.1\ModelContext.pdb
+F:\CoreAPIGIT\ApiNetCore\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.csprojAssemblyReference.cache
+F:\CoreAPIGIT\ApiNetCore\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.AssemblyInfoInputs.cache
+F:\CoreAPIGIT\ApiNetCore\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.AssemblyInfo.cs
+F:\CoreAPIGIT\ApiNetCore\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.csproj.CopyComplete
+F:\CoreAPIGIT\ApiNetCore\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.dll
+F:\CoreAPIGIT\ApiNetCore\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.pdb
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\ServiceContext\bin\Debug\netstandard2.1\ServiceContext.deps.json
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\ServiceContext\bin\Debug\netstandard2.1\ServiceContext.dll
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\ServiceContext\bin\Debug\netstandard2.1\ServiceContext.pdb
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\ServiceContext\bin\Debug\netstandard2.1\DatabaseContext.dll
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\ServiceContext\bin\Debug\netstandard2.1\DatabaseOracleContext.dll
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\ServiceContext\bin\Debug\netstandard2.1\ModelContext.dll
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\ServiceContext\bin\Debug\netstandard2.1\DatabaseContext.pdb
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\ServiceContext\bin\Debug\netstandard2.1\DatabaseOracleContext.pdb
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\ServiceContext\bin\Debug\netstandard2.1\ModelContext.pdb
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.csprojAssemblyReference.cache
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.AssemblyInfoInputs.cache
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.AssemblyInfo.cs
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.csproj.CopyComplete
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.dll
+D:\WorkSpace\Project Outsource\API net core\ApiNetCore\ServiceContext\obj\Debug\netstandard2.1\ServiceContext.pdb

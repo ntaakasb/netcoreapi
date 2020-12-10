@@ -1,0 +1,5 @@
+F:\Github\LogisticLamipel\trunk\ApiV2\Models\bin\Debug\Models.dll
+F:\Github\LogisticLamipel\trunk\ApiV2\Models\bin\Debug\Models.pdb
+F:\Github\LogisticLamipel\trunk\ApiV2\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+F:\Github\LogisticLamipel\trunk\ApiV2\Models\obj\Debug\Models.dll
+F:\Github\LogisticLamipel\trunk\ApiV2\Models\obj\Debug\Models.pdb

@@ -1,0 +1,8 @@
+F:\Github\LogisticLamipel\trunk\ApiV2\ModelContext\bin\Debug\netstandard2.0\ModelContext.deps.json
+F:\Github\LogisticLamipel\trunk\ApiV2\ModelContext\bin\Debug\netstandard2.0\ModelContext.dll
+F:\Github\LogisticLamipel\trunk\ApiV2\ModelContext\bin\Debug\netstandard2.0\ModelContext.pdb
+F:\Github\LogisticLamipel\trunk\ApiV2\ModelContext\obj\Debug\netstandard2.0\ModelContext.csproj.CoreCompileInputs.cache
+F:\Github\LogisticLamipel\trunk\ApiV2\ModelContext\obj\Debug\netstandard2.0\ModelContext.AssemblyInfoInputs.cache
+F:\Github\LogisticLamipel\trunk\ApiV2\ModelContext\obj\Debug\netstandard2.0\ModelContext.AssemblyInfo.cs
+F:\Github\LogisticLamipel\trunk\ApiV2\ModelContext\obj\Debug\netstandard2.0\ModelContext.dll
+F:\Github\LogisticLamipel\trunk\ApiV2\ModelContext\obj\Debug\netstandard2.0\ModelContext.pdb
